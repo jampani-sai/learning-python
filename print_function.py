@@ -2,11 +2,6 @@
 
 #Python program to discover print function
 
-'''
-print syntax:
-print(value, ..., sep=' ', end='\n', file=sys.stdout, flush=False)
-'''
-
 #print without any parameters
 print()
 
