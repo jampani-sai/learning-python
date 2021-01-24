@@ -21,6 +21,7 @@ print( string1, string2 )
 string3 = "This is the another line printing using separator '. '"
 print( string1, string3, sep = '. ',end = '\n' )
 
+#printing static message along with variables
 print('\n#Printing static message along with variables')
 name = "Ram"
 print( "Howdy", name, "!! How are you doing" )
